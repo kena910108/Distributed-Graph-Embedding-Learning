@@ -1,4 +1,4 @@
-# Stochastic-Machine-Learning
+# Distributed-Graph-Embedding-Learning
 
 
 Algorithm:
